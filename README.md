@@ -3,9 +3,9 @@
 <br>
 
 ## **⚙️ &nbsp;GitHub Analytics**
-<div style="display: inline;">
+<div style="display: flex;">
   <a href="https://github.com/thiagopiacentini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopiacentini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopiacentini&langs_count=10&layout=compact&hide=objective-c,java&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagopiacentini&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopiacentini&langs_count=10&layout=compact&hide=objective-c,java&theme=github_dark"/>
 </div>
 
 <br><br>
