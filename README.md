@@ -37,7 +37,7 @@
 <br>
   
 - 👨🏻‍🎓 Formado em ADS pela FIT - Faculdade Impacta Tecnologia
-- 👨‍💻 Desenvolvedor Front-end no @itau-unibanco
+- 👨‍💻 Engenheiro de Software na CGR - Corporate Governance Risk
 - 😍 Apaixonado por tecnologias web
 - 💻 Sempre pensando em interfaces acessíveis 📲
 - 👨🏻‍🏫 Instrutor de treinamento na Impacta Tecnologia "Web"
