@@ -35,9 +35,9 @@
 </div>
 
 <br>
-  
-- 👨🏻‍🎓 Formado em ADS pela FIT - Faculdade Impacta Tecnologia
-- 👨‍💻 Engenheiro de Software na CGR - Corporate Governance Risk
-- 😍 Apaixonado por tecnologias web
-- 💻 Sempre pensando em interfaces acessíveis 📲
-- 👨🏻‍🏫 Instrutor de treinamento na Impacta Tecnologia "Web"
+
+👨🏻‍🎓 Graduate in Systems Analysis and Development from FIT – Faculdade Impacta Tecnologia
+👨‍💻 Software Engineer at CGR – Corporate Governance Risk
+😍 Passionate about web technologies
+💻 Dedicated to building accessible and inclusive user interfaces 📲
+👨🏻‍🏫 Web development trainer at Impacta Tecnologia
