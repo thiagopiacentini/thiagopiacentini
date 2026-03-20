@@ -1,4 +1,4 @@
-# Opa! Eu sou Thiago Piacentini 👋
+# Ops! I'm Thiago Piacentini 👋
 
 <br>
 
@@ -36,8 +36,8 @@
 
 <br>
 
-👨🏻‍🎓 Graduate in Systems Analysis and Development from FIT – Faculdade Impacta Tecnologia
-👨‍💻 Software Engineer at CGR – Corporate Governance Risk
-😍 Passionate about web technologies
-💻 Dedicated to building accessible and inclusive user interfaces 📲
-👨🏻‍🏫 Web development trainer at Impacta Tecnologia
+- 👨🏻‍🎓 Graduate in Systems Analysis and Development from FIT – Faculdade Impacta Tecnologia
+- 👨‍💻 Software Engineer at CGR – Corporate Governance Risk
+- 😍 Passionate about web technologies
+- 💻 Dedicated to building accessible and inclusive user interfaces 📲
+- 👨🏻‍🏫 Web development trainer at Impacta Tecnologia
