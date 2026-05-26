@@ -3,11 +3,11 @@
 <br>
 
 ## **⚙️ &nbsp;GitHub Analytics**
- <div>
-  <a href="https://github.com/piacentinithiago">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopiacentini&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopiacentini&layout=compact&langs_count=7&theme=default"/>
-  </a>
+<div>
+ <a href="https://github.com/thiagopiacentini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopiacentini&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopiacentini&layout=compact&langs_count=7&theme=default"/>
+ </a>
 </div>
 
 <br><br>
